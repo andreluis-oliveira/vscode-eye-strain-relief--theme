@@ -1,10 +1,10 @@
 {
-  "name": "material-palenight-theme",
-  "publisher": "whizkydee",
-  "author": "Olaolu Olawuyi <mrolaolu@gmail.com> (http://twitter.com/mrolaolu)",
-  "displayName": "Palenight Theme",
+  "name": "material-palenight-high-constrast-theme",
+  "publisher": "andreluis-oliveira",
+  "author": "Andre Oliveira (https://github.com/andreluis-oliveira)",
+  "displayName": "Palenight High Contrast",
   "version": "2.0.3",
-  "description": "An elegant and juicy material-inspired theme for Visual Studio Code.",
+  "description": "A fork of the Palenight theme, using high contrast color palette.",
   "galleryBanner": {
     "color": "#31364A",
     "theme": "dark"
@@ -18,11 +18,11 @@
     "dark"
   ],
   "repository": {
-    "url": "https://github.com/whizkydee/vscode-palenight-theme",
+    "url": "https://github.com/andreluis-oliveira/vscode-palenight-theme-high-contrast",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/whizkydee/vscode-palenight-theme/issues"
+    "url": "https://github.com/andreluis-oliveira/vscode-palenight-theme-high-contrast/issues"
   },
   "license": "MIT",
   "engines": {
@@ -39,32 +39,17 @@
   "contributes": {
     "themes": [
       {
-        "label": "Palenight Theme",
+        "label": "Palenight High Contrast",
         "uiTheme": "vs-dark",
-        "path": "./themes/palenight.json"
-      },
-      {
-        "label": "Palenight Italic",
-        "uiTheme": "vs-dark",
-        "path": "./themes/palenight-italic.json"
-      },
-      {
-        "label": "Palenight Operator",
-        "uiTheme": "vs-dark",
-        "path": "./themes/palenight-operator.json"
-      },
-      {
-        "label": "Palenight (Mild Contrast)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/palenight-mild-contrast.json"
+        "path": "./themes/palenight-high-contrast.json"
       }
     ]
   },
   "devDependencies": {
-    "nodemon": "^1.12.1",
-    "vsce": "^1.88.0"
+    "nodemon": "^2.0.22",
+    "vsce": "^2.15.0"
   },
   "__metadata": {
-    "publisherDisplayName": "Olaolu Olawuyi"
+    "publisherDisplayName": "Andre Oliveira"
   }
 }
