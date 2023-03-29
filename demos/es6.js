@@ -1,21 +1,18 @@
 'use strict';
 
-(( global ) => {
-  'use strict'
+// https://vscodethemes.com/
+const btn = document.getElementById('btn')
 
-  const links = Array.from( document.querySelectorAll('a[href="#0"]') )
+const count = 0
 
-  // Disable link actions onclick
-  links.forEach(link => {
-    link.addEventListener('click', event => {
-      event.preventDefault()
-    })
-  })
+function render() {
+  btn.innerText = `Count: ${count}`
+}
 
-  const input = document.querySelector('input')
-
-  input.addEventListener('focus', () => {
-    input.setAttribute('placeholder', '')
-  })
-
-})(typeof window !== 'undefined' ? window : global)
+btn.addEventListener('click', () => {
+  // Count from 1 to  10
+  if (count < 10) {
+    count += 1
+    render()
+  }
+})

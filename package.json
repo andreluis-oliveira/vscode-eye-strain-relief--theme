@@ -3,7 +3,7 @@
   "publisher": "andreluis-oliveira",
   "author": "Andre Oliveira (https://github.com/andreluis-oliveira)",
   "displayName": "Palenight High Contrast",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "A fork of the Palenight theme, using high contrast color palette.",
   "galleryBanner": {
     "color": "#151720",
@@ -27,7 +27,7 @@
   },
   "license": "MIT",
   "engines": {
-    "vscode": "^1.12.0"
+    "vscode": "^1.76.0"
   },
   "scripts": {
     "start": "nodemon --exec vsce package",
