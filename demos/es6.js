@@ -1,5 +1,3 @@
-'use strict';
-
 // https://vscodethemes.com/
 const btn = document.getElementById('btn')
 

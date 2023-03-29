@@ -1,3 +1,7 @@
+# 2.1.2 (29.03.2023)
+
+- Improve terminal color
+
 # 2.1.1 (29.03.2023)
 
 - Other minor changes

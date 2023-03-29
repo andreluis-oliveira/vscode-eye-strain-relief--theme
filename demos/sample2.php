@@ -14,7 +14,7 @@ if (!isset($_SERVER['PHP_AUTH_USER'])) {
 
 <html lang="en">
 <head>
-  <title><?=$title;?></title>
-  <meta name="keywords" content="<?=$keywords;?>"/>
+  <title><?php echo $title; ?></title>
+  <meta name="keywords" content="<?php echo $keywords; ?>"/>
 </head>
 </html>

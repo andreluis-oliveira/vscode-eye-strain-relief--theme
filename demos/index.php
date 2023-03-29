@@ -1,43 +1,31 @@
 <?php
 
-// base class with member properties and methods
-class Vegetable {
+class Foo
+{
+    public function printItem($string)
+    {
+        echo 'Foo: ' . $string . PHP_EOL;
+    }
 
-  var $edible;
-  var $color;
+    public function printPHP()
+    {
+        echo 'PHP is great.' . PHP_EOL;
+    }
+}
 
-  function Vegetable($edible, $color="green") {
-    $this->edible = $edible;
-    $this->color = $color;
-  }
+class Bar extends Foo
+{
+    public function printItem($string)
+    {
+        echo 'Bar: ' . $string . PHP_EOL;
+    }
+}
 
-  function is_edible() {
-    return $this->edible;
-  }
-
-  function what_color() {
-    return $this->color;
-  }
-
-} // end of class Vegetable
-
-// extends the base class
-class Spinach extends Vegetable {
-
-  var $cooked = false;
-
-  function Spinach() {
-    $this->Vegetable(true, "green");
-  }
-
-  function cook_it() {
-    $this->cooked = true;
-  }
-
-  function is_cooked() {
-    return $this->cooked;
-  }
-
-} // end of class Spinach
+$foo = new Foo();
+$bar = new Bar();
+$foo->printItem('baz'); // Output: 'Foo: baz'
+$foo->printPHP();       // Output: 'PHP is great'
+$bar->printItem('baz'); // Output: 'Bar: baz'
+$bar->printPHP();       // Output: 'PHP is great'
 
 ?>
