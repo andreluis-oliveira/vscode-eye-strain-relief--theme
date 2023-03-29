@@ -3,10 +3,10 @@
   "publisher": "andreluis-oliveira",
   "author": "Andre Oliveira (https://github.com/andreluis-oliveira)",
   "displayName": "Palenight High Contrast",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "A fork of the Palenight theme, using high contrast color palette.",
   "galleryBanner": {
-    "color": "#31364A",
+    "color": "#151720",
     "theme": "dark"
   },
   "icon": "icon.png",
@@ -15,7 +15,8 @@
     "palenight",
     "material",
     "purple",
-    "dark"
+    "dark",
+    "high contrast"
   ],
   "repository": {
     "url": "https://github.com/andreluis-oliveira/vscode-palenight-theme-high-contrast",

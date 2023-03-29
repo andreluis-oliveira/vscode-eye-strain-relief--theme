@@ -4,3 +4,4 @@ node_modules
 debug.log
 *.vsix
 .vscode
+package-lock.json
