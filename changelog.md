@@ -1,3 +1,7 @@
+# 2.1.3 (30.03.2023)
+
+- Fix top bar color
+
 # 2.1.2 (29.03.2023)
 
 - Improve terminal color

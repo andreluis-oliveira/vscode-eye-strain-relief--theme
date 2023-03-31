@@ -57,7 +57,7 @@
     "editorGroup.border": "#2E3245",
     "editorGroup.dropBackground": "#7e57c273",
     "editorGroupHeader.noTabsBackground": "#32374C",
-    "editorGroupHeader.tabsBackground": "#31364a",
+    "editorGroupHeader.tabsBackground": "#212432",
     "editorGroupHeader.tabsBorder": "#262A39",
     "editorGutter.addedBackground": "#9CCC65",
     "editorGutter.background": null,
@@ -295,12 +295,6 @@
       }
     },
     {
-      "scope": ["support.type.object.module.js"],
-      "settings": {
-        "foreground": "#bfc7d5"
-      }
-    },
-    {
       "name": "Constant Character Escape",
       "scope": "constant.character.escape",
       "settings": {
@@ -339,13 +333,8 @@
       "name": "misc",
       "scope": [
         "support.class.component",
-        "support.other.variable",
-        "support.type",
-        "support.variable.object.node",
         "variable.function.constructor",
         "variable.import.parameter.js",
-        "variable.other.class.js",
-        "variable.other.property",
         "variable.other.readwrite.alias",
         "variable.other.readwrite.alias.tsx"
       ],
@@ -408,7 +397,7 @@
     {
       "name": "HTML Tag names",
       "scope": [
-        "entity.name.tag support.class.component",
+        "entity.name.tag",
         "meta.tag.other.html",
         "meta.tag.other.js",
         "meta.tag.other.tsx",
@@ -460,7 +449,7 @@
     },
     {
       "name": "Library type",
-      "scope": ["support.type", "support.class.component"],
+      "scope": ["support.type", "support.class"],
       "settings": {
         "foreground": "#00cecb"
       }
@@ -690,7 +679,7 @@
     },
     {
       "name": "Variable Property Other",
-      "scope": ["variable.other.property", "variable.other.object.property"],
+      "scope": ["variable.other.property"],
       "settings": {
         "foreground": "#00cecb"
       }

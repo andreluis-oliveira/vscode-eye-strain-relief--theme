@@ -1,3 +1,5 @@
+import { useState } from 'react';
+
 export default class Definition {
   constructor(def) {
     if (invalidParams(def)) {
