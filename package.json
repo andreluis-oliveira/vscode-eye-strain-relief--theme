@@ -2,9 +2,9 @@
   "name": "material-palenight-high-constrast-theme",
   "publisher": "andreluis-oliveira",
   "author": "Andre Oliveira (https://github.com/andreluis-oliveira)",
-  "displayName": "Palenight High Contrast",
-  "version": "2.1.3",
-  "description": "A fork of the Palenight theme, using high contrast color palette.",
+  "displayName": "Eye Strain Relief Theme",
+  "version": "2.1.4",
+  "description": "This high-contrast theme is vastly easier on the eyes and reduces eye strain.",
   "galleryBanner": {
     "color": "#151720",
     "theme": "dark"
@@ -40,7 +40,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Palenight High Contrast",
+        "label": "Eye Strain Relief Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/palenight-high-contrast.json"
       }
