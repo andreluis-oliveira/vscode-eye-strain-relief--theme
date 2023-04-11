@@ -1,3 +1,7 @@
+# 2.1.5 (11.04.2023)
+
+- Changed description and icon logo.
+
 # 2.1.4 (04.04.2023)
 
 - Changed the name, description, and icon logo.

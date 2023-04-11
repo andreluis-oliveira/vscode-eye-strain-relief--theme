@@ -2,11 +2,11 @@
 
 This high-contrast theme is vastly easier on the eyes and reduces eye strain.
 
-When you use your computer all day long, your doctor may have recommended that you turn on the High Contrast mode. It's an accessibility feature that can help screen users reduce the impact of blue light and glare on their eyes.
-
 ![theme preview](https://raw.githubusercontent.com/andreluis-oliveira/vscode-palenight-theme-high-contrast/master/screenshots/preview.jpg)
 
 ![theme preview](https://raw.githubusercontent.com/andreluis-oliveira/vscode-palenight-theme-high-contrast/master/screenshots/react.jpg)
+
+![theme preview](https://raw.githubusercontent.com/andreluis-oliveira/vscode-palenight-theme-high-contrast/master/screenshots/vue.jpg)
 
 ![theme preview](https://raw.githubusercontent.com/andreluis-oliveira/vscode-palenight-theme-high-contrast/master/screenshots/css.jpg)
 
@@ -19,20 +19,22 @@ High-contrast mode is designed for users with weak eyesight to help them read te
 # High-Contrast theme benefits
 
 1. Improves focus.
-1. Improves visibility and readability.
-1. Reduces visual noise.
-1. Eases light sensitivity.
-1. Reduces eye strain.
-1. Eases light sensitivity.
-1. Reduces visual noise
-1. If a screen has flicker problems, dark backgrounds can reduce flickering.
-1. Dark themes are less likely to trigger photophobia (sensitivity to light).
-1. Light-colored text on a dark background can be easier to read for a long period of time.
-1. Dark themes can make screens easier to use in low-light conditions.
-1. Try to avoid low-contrast color schemes as they are stressful and result in eye strain and fatigue.
+2. Improves visibility and readability.
+3. Reduces visual noise.
+4. Eases light sensitivity.
+5. Reduces eye strain.
+6. Eases light sensitivity.
+7. Reduces visual noise
+8. If a screen has flicker problems, dark backgrounds can reduce flickering.
+9. Dark themes are less likely to trigger photophobia (sensitivity to light).
+10. Light-colored text on a dark background can be easier to read for a long period of time.
+11. Dark themes can make screens easier to use in low-light conditions.
+12. Try to avoid low-contrast color schemes as they are stressful and result in eye strain and fatigue.
 
 ## Credits
 
+The font used in the screenshot is [Cascadia Code](https://github.com/microsoft/cascadia-code/)
+
 This theme is a fork of [Palenight](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme)
 
-The font used in the screenshot is [Cascadia Code](https://github.com/microsoft/cascadia-code/).
+Eye Insurance vector by tezar tantular from [Noun Project](https://thenounproject.com/browse/icons/term/eye-insurance/)
