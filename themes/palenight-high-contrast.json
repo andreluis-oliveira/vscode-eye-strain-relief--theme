@@ -685,6 +685,13 @@
       }
     },
     {
+      "name": "Variable Property Other object property",
+      "scope": ["variable.other.object.property"],
+      "settings": {
+        "foreground": "#faf39f"
+      }
+    },
+    {
       "name": "Keyword Operator Comparison",
       "scope": "keyword.operator.comparison",
       "settings": {
@@ -1085,10 +1092,18 @@
       }
     },
     {
-      "name": "JavaScript module imports and exports",
+      "name": "JavaScript module imports",
       "scope": [
         "variable.other.meta.import.js",
-        "meta.import.js variable.other",
+        "meta.import.js variable.other"
+      ],
+      "settings": {
+        "foreground": "#bfc7d5"
+      }
+    },
+    {
+      "name": "JavaScript module exports",
+      "scope": [
         "variable.other.meta.export.js",
         "meta.export.js variable.other"
       ],
@@ -1129,7 +1144,7 @@
       "name": "JavaScript Variable Other ReadWrite",
       "scope": "variable.other.readwrite.js",
       "settings": {
-        "foreground": "#bfc7d5"
+        "foreground": "#ffcb8b"
       }
     },
     {
@@ -1176,6 +1191,16 @@
       "scope": "support.class.js",
       "settings": {
         "foreground": "#bfc7d5"
+      }
+    },
+    {
+      "name": "TypeScript Class Variable Keyword",
+      "scope": [
+        "meta.class.ts meta.var.expr.ts storage.type.ts",
+        "meta.class.tsx meta.var.expr.tsx storage.type.tsx"
+      ],
+      "settings": {
+        "foreground": "#c792ea"
       }
     },
     {
