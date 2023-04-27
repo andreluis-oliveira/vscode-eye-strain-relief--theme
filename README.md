@@ -4,13 +4,15 @@ This high-contrast theme is vastly easier on the eyes and reduces eye strain.
 
 ![theme preview](https://raw.githubusercontent.com/andreluis-oliveira/vscode-palenight-theme-high-contrast/master/screenshots/preview.jpg)
 
-![theme preview](https://raw.githubusercontent.com/andreluis-oliveira/vscode-palenight-theme-high-contrast/master/screenshots/react.jpg)
+![theme preview](https://raw.githubusercontent.com/andreluis-oliveira/vscode-palenight-theme-high-contrast/master/screenshots/react.png)
 
-![theme preview](https://raw.githubusercontent.com/andreluis-oliveira/vscode-palenight-theme-high-contrast/master/screenshots/vue.jpg)
+![theme preview](https://raw.githubusercontent.com/andreluis-oliveira/vscode-palenight-theme-high-contrast/master/screenshots/vue.png)
 
-![theme preview](https://raw.githubusercontent.com/andreluis-oliveira/vscode-palenight-theme-high-contrast/master/screenshots/css.jpg)
+![theme preview](https://raw.githubusercontent.com/andreluis-oliveira/vscode-palenight-theme-high-contrast/master/screenshots/js.png)
 
-![theme preview](https://raw.githubusercontent.com/andreluis-oliveira/vscode-palenight-theme-high-contrast/master/screenshots/html.jpg)
+![theme preview](https://raw.githubusercontent.com/andreluis-oliveira/vscode-palenight-theme-high-contrast/master/screenshots/css.png)
+
+![theme preview](https://raw.githubusercontent.com/andreluis-oliveira/vscode-palenight-theme-high-contrast/master/screenshots/html.png)
 
 # What is High-Contrast Mode?
 
@@ -34,5 +36,3 @@ High-contrast mode is designed for users with weak eyesight to help them read te
 ## Credits
 
 The font used in the screenshot is [Cascadia Code](https://github.com/microsoft/cascadia-code/)
-
-This theme is a fork of [Palenight](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme)
