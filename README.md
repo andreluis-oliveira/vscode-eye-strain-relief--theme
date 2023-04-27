@@ -1,4 +1,4 @@
-# Eye Strain Relief - Theme [![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/andreluis-oliveira.material-palenight-high-constrast-theme/Eye%20Strain%20Relief%20Theme)
+# Luminescence Theme [![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/andreluis-oliveira.material-palenight-high-constrast-theme/Luminescence%20Theme)
 
 This high-contrast theme is vastly easier on the eyes and reduces eye strain.
 
@@ -36,5 +36,3 @@ High-contrast mode is designed for users with weak eyesight to help them read te
 The font used in the screenshot is [Cascadia Code](https://github.com/microsoft/cascadia-code/)
 
 This theme is a fork of [Palenight](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme)
-
-Eye Insurance vector by tezar tantular from [Noun Project](https://thenounproject.com/browse/icons/term/eye-insurance/)

@@ -2,8 +2,8 @@
   "name": "material-palenight-high-constrast-theme",
   "publisher": "andreluis-oliveira",
   "author": "Andre Oliveira (https://github.com/andreluis-oliveira)",
-  "displayName": "Eye Strain Relief Theme",
-  "version": "2.1.6",
+  "displayName": "Luminescence Theme",
+  "version": "2.1.8",
   "description": "This high-contrast theme is vastly easier on the eyes and reduces eye strain.",
   "galleryBanner": {
     "color": "#151720",
@@ -40,7 +40,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Eye Strain Relief Theme",
+        "label": "Luminescence Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/palenight-high-contrast.json"
       }

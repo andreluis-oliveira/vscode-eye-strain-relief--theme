@@ -1,20 +1,30 @@
-<h1 class="hey" id="id">AAAA</h1>
-
 <?php
-if (!isset($_SERVER['PHP_AUTH_USER'])) {
-  header('WWW-Authenticate: Basic realm="My Realm"');
-  header('HTTP/1.0 401 Unauthorized');
-  echo 'Text to send if user hits Cancel button';
-  exit;
-} else {
-  echo "<p>Hello {$_SERVER['PHP_AUTH_USER']}.</p>";
-  echo "<p>You entered {$_SERVER['PHP_AUTH_PW']} as your password.</p>";
-}
-?>
+trait World {
 
-<html lang="en">
-<head>
-  <title><?php echo $title; ?></title>
-  <meta name="keywords" content="<?php echo $keywords; ?>"/>
-</head>
-</html>
+    private static $instance;
+    protected $tmp;
+
+    public static function World()
+    {
+        self::$instance = new static();
+        self::$instance->tmp = get_called_class().' '.__TRAIT__;
+
+        return self::$instance;
+    }
+
+}
+
+if ( trait_exists( 'World' ) ) {
+
+    class Hello {
+        use World;
+
+        public function text( $str )
+        {
+            return $this->tmp.$str;
+        }
+    }
+
+}
+
+echo Hello::World()->text('!!!'); // Hello World!!!

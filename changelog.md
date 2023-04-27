@@ -1,3 +1,12 @@
+# 2.1.8 (27.04.2023)
+
+- fix Javascript and TypeScript import/export color. (fixes [#1](https://github.com/andreluis-oliveira/vscode-luminescence-theme/issues/1))
+- new screenshots.
+
+# 2.1.7 (16.04.2023)
+
+- Changed the name and icon logo.
+
 # 2.1.6 (13.04.2023)
 
 - Other minor changes
