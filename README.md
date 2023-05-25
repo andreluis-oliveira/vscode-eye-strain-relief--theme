@@ -2,17 +2,17 @@
 
 This high-contrast theme is vastly easier on the eyes and reduces eye strain.
 
-![theme preview](https://raw.githubusercontent.com/andreluis-oliveira/vscode-palenight-theme-high-contrast/master/screenshots/preview.jpg)
+![Theme preview](screenshots/preview.jpg)
 
-![theme preview](https://raw.githubusercontent.com/andreluis-oliveira/vscode-palenight-theme-high-contrast/master/screenshots/react.png)
+![React preview](https://raw.githubusercontent.com/andreluis-oliveira/vscode-palenight-theme-high-contrast/master/screenshots/react.png)
 
-![theme preview](https://raw.githubusercontent.com/andreluis-oliveira/vscode-palenight-theme-high-contrast/master/screenshots/vue.png)
+![Vue preview](screenshots/vue.png)
 
-![theme preview](https://raw.githubusercontent.com/andreluis-oliveira/vscode-palenight-theme-high-contrast/master/screenshots/js.png)
+![JS preview](screenshots/js.png)
 
-![theme preview](https://raw.githubusercontent.com/andreluis-oliveira/vscode-palenight-theme-high-contrast/master/screenshots/css.png)
+![CSS preview](screenshots/css.png)
 
-![theme preview](https://raw.githubusercontent.com/andreluis-oliveira/vscode-palenight-theme-high-contrast/master/screenshots/html.png)
+![HTML preview](screenshots/html.png)
 
 # What is High-Contrast Mode?
 
