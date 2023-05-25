@@ -4,15 +4,15 @@ This high-contrast theme is vastly easier on the eyes and reduces eye strain.
 
 ![Theme preview](screenshots/preview.jpg)
 
-![React preview](https://raw.githubusercontent.com/andreluis-oliveira/vscode-palenight-theme-high-contrast/master/screenshots/react.png)
+![React preview](screenshots/react.jpg)
 
-![Vue preview](screenshots/vue.png)
+![Vue preview](screenshots/vue.jpg)
 
-![JS preview](screenshots/js.png)
+![JS preview](screenshots/js.jpg)
 
-![CSS preview](screenshots/css.png)
+![CSS preview](screenshots/css.jpg)
 
-![HTML preview](screenshots/html.png)
+![HTML preview](screenshots/html.jpg)
 
 # What is High-Contrast Mode?
 
