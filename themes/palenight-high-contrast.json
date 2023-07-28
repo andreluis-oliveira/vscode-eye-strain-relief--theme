@@ -882,6 +882,13 @@
       }
     },
     {
+      "name": "C# Other Variables",
+      "scope": "variable.other.object.cs",
+      "settings": {
+        "foreground": "#B2CCD6"
+      }
+    },
+    {
       "name": "C# Namespaces",
       "scope": "entity.name.type.namespace.cs",
       "settings": {

@@ -1,3 +1,15 @@
+# 2.1.11 (27.07.2023)
+
+- Update csharp object color. (fixes [#1](https://github.com/andreluis-oliveira/vscode-luminescence-theme/issues/2))
+
+# 2.1.10 (25.05.2023)
+
+- Other minor changes
+
+# 2.1.9 (25.05.2023)
+
+- Other minor changes
+
 # 2.1.8 (27.04.2023)
 
 - fix Javascript and TypeScript import/export color. (fixes [#1](https://github.com/andreluis-oliveira/vscode-luminescence-theme/issues/1))
